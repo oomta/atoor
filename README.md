@@ -1,4 +1,4 @@
-# atoor
+# ATOOR Application Manager
 Atoor was a framework created very much ad-hoc to fulfil specific needs of our company and clients.
 
 It consisted of a variety of modules including
